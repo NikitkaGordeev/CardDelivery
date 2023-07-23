@@ -12,7 +12,6 @@ import static com.codeborne.selenide.Selenide.*;
 
 
 public class CardDeliveryTests {
-    SelenideElement parentDiv = $(".popup__inner");
 
     @BeforeEach
     public void setUp() {
